@@ -3,3 +3,5 @@ Welcome to Bitmaker, Team Bender!!!!
 We're so happy to have you!!!!!
 
 Learning git is hard but fun!!!!!
+
+The lesson is almost over!
